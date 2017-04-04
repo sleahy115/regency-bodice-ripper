@@ -7,6 +7,9 @@ const appRoutes: Routes = [
   {
     path: '',
     component: StartPageComponent
+  },{
+    path: 'continue-story/:id',
+    component: ContinueStoryComponent
   },
 
 ];

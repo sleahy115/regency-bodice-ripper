@@ -1,11 +1,17 @@
 {
-  "options":[{"title":"Snatched Scarf",
+  "options":[{"title":"Snatch The Scarf",
              "story":"You snarl \"Don't want to\" at your mother and wait for her to cajole your elder sister into helping her.  Waiting until Maggie leaves the room, you rummage through her armoir and pluck out her prettiest shawl.",
              "points":"5",
+             "storyA": "3",
+             "storyB": "4",
+             "id": "1"
 
   }, { "title":"Help Your Mother",
              "story":"With a long suffering sigh, you put down your mirror, go downstairs, and pick up the toys strewn across the nursery floor, as your elder sisters primp for the ball.",
              "points":"",
+             "storyA": "5",
+             "storyB": "6",
+             "id": "2"
 
   }
 
